@@ -21,8 +21,8 @@ Surf in de browser naar http://api.icndb.com/jokes. Toon alle grapjes in de cons
 Schrijf een function GetJSON die de data aanwezig in een json-bestand retourneert. Je zult hier asynchroon moeten werken en wachten op het resultaat van de operatie.
 
 #### In script.js
-Schrijf function die de vrienden ophaalt via GetJSON en die opslaag in de variabele vrienden.
-Daarna worden de vrienden getoond in de select en de details getoond in de DOM-elementen.
+Schrijf een function die de vrienden ophaalt via GetJSON en die opslaat in de variabele *vrienden*.
+Daarna worden de vrienden getoond in de select en de details in de DOM-elementen.
 
 Haal ook de grapjes op uit http://api.icndb.com/jokes en sla ze op in een array memes.
 Doorlus deze array en toon elke meme in de console.
