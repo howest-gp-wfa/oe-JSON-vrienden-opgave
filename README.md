@@ -1,4 +1,4 @@
-# JSON-betand verwerken.
+# JSON-bestand verwerken.
 
 ## Data
 Maak een nieuw bestand aan met de naam vrienden.json.
