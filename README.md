@@ -14,7 +14,7 @@ De inhoud van elk element in de array wordt in de console getoond.
 
 Call deze methode om de vrienden uit het json-bestand te tonen in de console.
 
-Surf in de browser naar http://api.icndb.com/jokes. Toon alle grapjes in de console via ShowArrayContent.
+Surf in de browser naar http://api.icndb.com/jokes. Toon alle grapjes in de console via ShowArrayContent (dit is enkel om de fetch te oefenen).
 
 ### GetJSON
 #### In jsonScripts.js
@@ -24,7 +24,7 @@ Schrijf een function GetJSON die de data aanwezig in een json-bestand retourneer
 Schrijf een function die de vrienden ophaalt via GetJSON en die opslaat in de variabele *vrienden*.
 Daarna worden de vrienden getoond in de select en de details in de DOM-elementen.
 
-Haal ook de grapjes op uit http://api.icndb.com/jokes en sla ze op in een array memes.
+Haal ook de grapjes op uit http://api.icndb.com/jokes en sla ze op in een array memes (dit is enkel om de fetch te oefenen).
 Doorlus deze array en toon elke meme in de console.
 
 
